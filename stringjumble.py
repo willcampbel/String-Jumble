@@ -26,7 +26,7 @@ handy find may you that tricks or techniques few a are There
 erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 string1 = input("PLease enter a string of text (the bigger the better): ")
-print('You entered "'+string+'")
+#print('You entered "'+string+'")
 
 
 string1=list(string1)
