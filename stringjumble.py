@@ -40,5 +40,6 @@ while z<len(string1):
         print(aa)
         a.append(aa)
         aa=""
+    z=z+1
         
 print(a)
