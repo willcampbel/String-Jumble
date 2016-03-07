@@ -25,6 +25,7 @@ ydnah dnif yam uoy taht skcirt ro seuqinhcet wef a era erehT
 handy find may you that tricks or techniques few a are There
 erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
+"""
 string1 = input("PLease enter a string of text (the bigger the better): ")
 #print('You entered "'+string+'")
 
@@ -42,4 +43,6 @@ while z<len(string1):
         aa=""
     z=z+1
         
-print(a)
+print(a)"""
+z=[1,2,3,4,5,6,7,8,9]
+print(z[1])
