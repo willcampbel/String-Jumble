@@ -45,5 +45,7 @@ while z<len(string1):
         
 print(a)"""
 z=[1,2,3,4,5,6,7,8,9]
-for x in z:
-    print(x)
+
+x=0
+while x<len(z):
+    print(z[x])
