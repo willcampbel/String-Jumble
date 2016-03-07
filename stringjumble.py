@@ -31,3 +31,14 @@ string1 = input("PLease enter a string of text (the bigger the better): ")
 
 string1=list(string1)
 print(string1)
+a=[]
+aa=""
+z=0
+while z<len(string1):
+    aa=aa+string1[z]
+    if string1[z]==" ":
+        print(aa)
+        a.append(aa)
+        aa=""
+        
+print(a)
