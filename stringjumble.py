@@ -27,20 +27,19 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 
 string1 = input("PLease enter a string of text (the bigger the better): ")
-#print('You entered "'+string+'")
+print("You entered "+string+". Now jumble it:")
+
+import 
 
 
-string1=list(string1)
-print(string1)
-a=[]
-aa=""
-z=0
-while z<len(string1):
-    aa=aa+string1[z]
-    if string1[z]==" ":
-        print(aa)
-        a.append(aa)
-        aa=""
-    z=z+1
-a.append(aa)        
-print(a)
+
+
+
+
+
+
+
+
+
+
+
