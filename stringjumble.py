@@ -34,7 +34,8 @@ print(string1[::-1])
 StringList = string1.split()
 #print(StringList) 
 apple = StringList.reverse() 
-str.join(StringList)
+orange = ' '.join(StringList)
+print(orange) 
 
 
 
