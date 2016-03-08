@@ -39,7 +39,8 @@ print(orange)
 
 StringRev = string1.split()
 for banana in StringRev:
-    print(banana[::-1])
+    print(banana[::-1], end=" ")
+   
 
 
 
