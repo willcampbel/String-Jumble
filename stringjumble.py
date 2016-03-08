@@ -1,7 +1,7 @@
 """
 stringjumble.py
-Author: <your name>
-Credit: <sources>
+Author: will campbell
+Credit: david, mr dennison, ethan, stackoverflow
 
 Assignment:
 
@@ -37,6 +37,8 @@ apple = StringList.reverse()
 orange = ' '.join(StringList)
 print(orange) 
 
+StringRev = string1.split()
+banana = StringRev.
 
 
 
