@@ -27,7 +27,7 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 
 string1 = input("Please enter a string of text (the bigger the better): ")
-print("You entered ""+string1+"". Now jumble it:")
+print('You entered "'+string1+'". Now jumble it:')
 
 print(string1[::-1]) 
 
