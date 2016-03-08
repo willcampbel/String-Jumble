@@ -38,8 +38,8 @@ orange = ' '.join(StringList)
 print(orange) 
 
 StringRev = string1.split()
-banana = StringRev.
-
+for banana in StringRev:
+    print(banana[::-1])
 
 
 
